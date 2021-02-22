@@ -1,0 +1,35 @@
+{
+	"name": "OpenCRVS",
+	"description": " OpenCRVS is an open-source software for civil registration, designed for low resource settings",
+	"website": "https://www.opencrvs.org/",
+	"type": [
+		"data"
+	],
+	"SDGs": [
+		2
+	],
+	"evidenceText2": "SDG 2",
+	"organizations": {
+		"org_type": "owner",
+		"name": "Plan International",
+		"website": "https://plan-international.org/"
+	},
+	"license": {
+		"spdx": "0BSD",
+		"licenseURL": "https://github.com/unicef/publicgoods-candidates"
+	},
+	"clearOwnership": {
+		"isOwnershipExplicit": "Yes",
+		"copyrightURL": "https://backlog.digitalpublicgoods.net/opencrvs/"
+	},
+	"nonPII": "No",
+	"platformIndependence": {
+		"mandatoryDepsCreateMoreRestrictions": "Yes",
+		"isSoftwarePltIndependent": "Yes",
+		"pltIndependenceDesc": "The hardware components demonstrate vendor independence"
+	},
+	"documentation": {
+		"isDocumentationAvailable": "Yes"
+	},
+	"documentationURL": "https://www.opencrvs.org/"
+}
