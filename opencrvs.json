@@ -1,0 +1,42 @@
+{
+	"name": "OpenCRVS",
+	"description": " OpenCRVS is an open-source software for civil registration, designed for low resource settings",
+	"website": "https://www.opencrvs.org/",
+	"type": [
+		"data"
+	],
+	"SDGs": [
+		{
+			"SDGNumber": null
+		},
+		{
+			"SDGNumber": null
+		},
+		{
+			"SDGNumber": 17,
+			"evidenceText": "OpenCRVS is a digital public good to help achieve universal civil registration and evidence-based decision making in all country contexts.\\nOpenCRVS was created in direct response to: \\nSDG Goal/Target 16.9: \\\"By 2030, provide legal identity for all, including birth registration\\\"\\nIndicator: Proportion of children under 5 years whose births have been registered with a civil authority, by age\\n addition (as of March 2017), 67 of the 230 SDG indicators can be measured effectively by using data derived from well-functioning CRVS systems, in particular for the numerators (births, deaths) and denominators (total population, live births, total deaths). These indicators cover 12 of the SDG 17 goals (Goals 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, and 17)."
+		}
+	],
+	"organizations": {
+		"org_type": "owner",
+		"name": "Plan International",
+		"website": "https://plan-international.org/"
+	},
+	"evidenceText17": "OpenCRVS is a digital public good to help achieve universal civil registration and evidence-based decision making in all country contexts.\\nOpenCRVS was created in direct response to: \\nSDG Goal/Target 16.9: \\\"By 2030, provide legal identity for all, including birth registration\\\"\\nIndicator: Proportion of children under 5 years whose births have been registered with a civil authority, by age\\n addition (as of March 2017), 67 of the 230 SDG indicators can be measured effectively by using data derived from well-functioning CRVS systems, in particular for the numerators (births, deaths) and denominators (total population, live births, total deaths). These indicators cover 12 of the SDG 17 goals (Goals 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, and 17).",
+	"license": {
+		"spdx": "AFL-3.0",
+		"licenseURL": "https://backlog.digitalpublicgoods.net/opencrvs/"
+	},
+	"clearOwnership": {
+		"isOwnershipExplicit": "No"
+	},
+	"platformIndependence": {
+		"mandatoryDepsCreateMoreRestrictions": "No"
+	},
+	"documentation": {
+		"isDocumentationAvailable": "No"
+	},
+	"NonPII": {
+		"collectsNonPII": "No"
+	}
+}
