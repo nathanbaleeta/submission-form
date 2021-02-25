@@ -1,0 +1,74 @@
+{
+	"name": "OpenCRVS",
+	"description": " OpenCRVS is an open-source software for civil registration, designed for low resource settings",
+	"website": "https://www.opencrvs.org/",
+	"type": [
+		"data"
+	],
+	"SDGs": [
+		{
+			"SDGNumber": {
+				"SDGNumber": 1,
+				"evidenceText": "text"
+			},
+			"evidenceText": "text"
+		},
+		{
+			"SDGNumber": {
+				"SDGNumber": 1,
+				"evidenceText": "text"
+			},
+			"evidenceText": "text"
+		},
+		{
+			"SDGNumber": {
+				"SDGNumber": 1,
+				"evidenceText": "text"
+			},
+			"evidenceText": "text"
+		},
+		{
+			"SDGNumber": {
+				"SDGNumber": 1,
+				"evidenceText": "text"
+			},
+			"evidenceText": "text"
+		},
+		{
+			"SDGNumber": {
+				"SDGNumber": 1,
+				"evidenceText": "text"
+			},
+			"evidenceText": "text"
+		},
+		{
+			"SDGNumber": {
+				"SDGNumber": 1,
+				"evidenceText": "text"
+			},
+			"evidenceText": "text"
+		}
+	],
+	"organizations": {
+		"org_type": "owner",
+		"name": "Plan International",
+		"website": "https://plan-international.org/"
+	},
+	"evidenceText1": "SDG 1",
+	"license": {
+		"spdx": "0BSD",
+		"licenseURL": "https://backlog.digitalpublicgoods.net/opencrvs/"
+	},
+	"clearOwnership": {
+		"isOwnershipExplicit": "No"
+	},
+	"platformIndependence": {
+		"mandatoryDepsCreateMoreRestrictions": "No"
+	},
+	"documentation": {
+		"isDocumentationAvailable": "No"
+	},
+	"NonPII": {
+		"collectsNonPII": "No"
+	}
+}
