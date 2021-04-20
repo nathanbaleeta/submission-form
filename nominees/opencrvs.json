@@ -1,0 +1,20 @@
+{
+2"name": "OpenCRVS",
+2"description": " OpenCRVS is an open-source software for civil registration, designed for low resource settings",
+2"website": "https://www.opencrvs.org/",
+2"type": [
+22"data"
+2],
+2"SDGs": [
+22{
+222"SDGNumber": 2,
+222"evidenceText": "SDG 2"
+22}
+2],
+2"organizations": {
+22"org_type": "owner",
+22"name": "Plan International",
+22"website": "https://plan-international.org/"
+2},
+2"stage": "nominee"
+}
