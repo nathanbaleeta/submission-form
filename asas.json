@@ -1,0 +1,21 @@
+{
+	"name": "asas",
+	"description": "asas",
+	"website": "https://data-driven-forms.org/provided-mappers/wizard?mapper=pf4#buttons",
+	"type": [
+		"data"
+	],
+	"SDGs": [
+		{
+			"SDGNumber": 2,
+			"evidenceText": "sdg 2"
+		}
+	],
+	"organizations": {
+		"org_type": "owner",
+		"name": "asas",
+		"website": "https://data-driven-forms.org/provided-mappers/wizard?mapper=pf4#buttons"
+	},
+	"submissionType": "partial",
+	"locations": {}
+}
