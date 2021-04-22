@@ -1,0 +1,43 @@
+{
+   "name": "DHIS2",
+   "repositoryURL": "https://github.com/unicef/publicgoods-candidates",
+   "clearOwnership": {
+      "isOwnershipExplicit": "No"
+   },
+   "platformIndependence": {
+      "mandatoryDepsCreateMoreRestrictions": "No"
+   },
+   "documentation": {
+      "isDocumentationAvailable": "No"
+   },
+   "NonPII": {
+      "collectsNonPII": "No"
+   },
+   "privacy": {
+      "isPrivacyCompliant": "No"
+   },
+   "standards": {
+      "supportStandards": "No",
+      "implementBestPractices": "No"
+   },
+   "preventHarm": {
+      "stepsToPreventHarm": "No"
+   },
+   "dataPrivacySecurity": {
+      "collectsPII": "No"
+   },
+   "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+   },
+   "protectionFromHarassment": {
+      "userInteraction": "No"
+   },
+   "locations": {
+      "developmentCountries": [
+         "Bangladesh"
+      ],
+      "deploymentCountries": [
+         "Mauritius"
+      ]
+   }
+}
