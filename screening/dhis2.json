@@ -1,0 +1,42 @@
+{
+   "name": "DHIS2",
+   "clearOwnership": {
+      "isOwnershipExplicit": "No"
+   },
+   "platformIndependence": {
+      "mandatoryDepsCreateMoreRestrictions": "No"
+   },
+   "documentation": {
+      "isDocumentationAvailable": "No"
+   },
+   "NonPII": {
+      "collectsNonPII": "No"
+   },
+   "privacy": {
+      "isPrivacyCompliant": "No"
+   },
+   "standards": {
+      "supportStandards": "No",
+      "implementBestPractices": "No"
+   },
+   "preventHarm": {
+      "stepsToPreventHarm": "No"
+   },
+   "dataPrivacySecurity": {
+      "collectsPII": "No"
+   },
+   "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No"
+   },
+   "protectionFromHarassment": {
+      "userInteraction": "No"
+   },
+   "locations": {
+      "developmentCountries": [
+         "Antigua and Barbuda"
+      ],
+      "deploymentCountries": [
+         "Angola"
+      ]
+   }
+}
